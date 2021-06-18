@@ -7,10 +7,11 @@ no. That's how you break things." that is adopted by
 ## A bit more explanation...
 
 As Software Engineers, our job and our passion is to make things. Almost
-every one of us works on software that is not life-threatening. Try as we
-may discussing things like feature location, impact analysis, automated
-testing, BDD,TDD, static analysis, and a host of other things... there's
-no substitute for you, a professional, and your gut.
+every one of us works on software that is not life-threatening in the
+event of a bug. Try as we may discussing things like feature location,
+impact analysis, automated testing, BDD,TDD, static analysis, and a host
+of other things... there's no substitute for you, a professional, and your
+gut.
 
 We are designers, craftspeople, communicators, and need to take pride in
 our work, our process, and our occupation.
