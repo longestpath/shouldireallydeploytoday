@@ -2,7 +2,7 @@
 
 Inspired by the pessimism of the Software Engineer trope of "Oh goodness,
 no. That's how you break things." that is adopted by
-[shouldideploy.today](https://shouldideploy.today) and other imilar sites.
+[shouldideploy.today](https://shouldideploy.today) and other similar sites.
 
 ## A bit more explanation...
 
