@@ -1,2 +1,2 @@
 publish:
-	git subtree push --prefix public origin gh-pages
+	git push origin `git subtree split --prefix public main`:gh-pages --force
