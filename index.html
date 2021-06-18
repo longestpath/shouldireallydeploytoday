@@ -4,22 +4,37 @@
       body {
       background-color: #00ad4e
       }
-      
+
       div.central {
       position: fixed;
-      top: calc(50% - 10em);
+      }
+
+      p.big-text {
+      font: bold 600% Helvetica;
+      }
+
+      p.small-text {
+      font: bold 200% Helvetica;
+      }
+
+      @media (orientation: landscape) {
+      div.central {
+      top: calc(50% - 30%);
       left: calc(50% - 25%);
       text-align: center;
       max-width: 50%;
       width: 50%;
       }
-
-      p.big-text {
-      font: bold 4em Helvetica;
       }
 
-      p.small-text {
-      font: bold 1.2em Helvetica;
+      @media (orientation: portrait) {
+      div.central {
+      top: calc(25% - 10%);
+      left: calc(50% - 40%);
+      text-align: center;
+      max-width: 80%;
+      width: 80%;
+      }
       }
     </style>
   </head>
