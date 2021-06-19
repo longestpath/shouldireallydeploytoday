@@ -3,7 +3,8 @@
 Recently, a colleague shared [shouldideploy.today](https://shouldideploy.today).
 Now, that site doesn't have only negative answers, but I viewed it on a
 Thursday and Friday, and the overwhelming "No's" kind of rubbed me the
-wrong way. Sort of as a "trope" or "livin' the dream" kind of sentiment.
+wrong way. The vibe of "not deploying" is a tried and true trope. It was 
+maybe funny the first time, but it's not exactly what we strive towards.
 
 So...
 
