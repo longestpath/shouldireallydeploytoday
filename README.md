@@ -8,7 +8,7 @@ maybe funny the first time, but it's not exactly what we strive towards.
 
 So...
 
-**Yes...** ***that's why you made it.***
+***[Should you?](https://shouldireallydeploy.today)***
 
 ### License
 
