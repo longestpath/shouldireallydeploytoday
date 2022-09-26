@@ -6,6 +6,11 @@ Thursday and Friday, and the overwhelming "No's" kind of rubbed me the
 wrong way. The vibe of "not deploying" is a tried and true trope. It was 
 maybe funny the first time, but it's not exactly what we strive towards.
 
+It shouldn't be scary, it shouldn't be hard, as long as the craft creates
+a process that builds confidence for whatever software you're writing in
+whatever space you're working. Deploying needs to happen frequently
+and safely.
+
 So...
 
 ***[Should you?](https://shouldireallydeploy.today)***
